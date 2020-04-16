@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 
 ## deployment 
 Deploy this way
+
+## run this way
+
+Learn how to run
