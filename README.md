@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## This is my test project
 
 ## nr 2
+
+## deployment 
+Deploy this way
